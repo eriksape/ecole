@@ -34,3 +34,7 @@ Nosotros creemos que si se combaten estos 2 puntos (apoyarse de la piratería y 
 - [11 stars framwork](./project-1/11-stars-framework.md)
 - [Social proof.md](./project-1/social-proof.md)
 
+### Referencias
+- https://uxdesign.cc/applying-airbnbs-11-star-framework-to-the-candidate-experience-3f0b9c4e68a3
+- Robert B Cialdini PhD. (2021). Influence: The Psychology of Persuasion, New and Expanded. New York City: HarperCollins.
+

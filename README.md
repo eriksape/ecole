@@ -30,7 +30,7 @@ Nosotros creemos que si se combaten estos 2 puntos (apoyarse de la piratería y 
 
 1. Mejorar la experiencia del uso de la plataforma
 
-    Hemos detectado que aunque Crunchyroll es muy de nicho lamentablemente no cuenta con una experiencia que nos atraiga seguir consumiendo contenido constantemente e incluso encontrar nuevas series. Por ejemplo en el caso de los [thumbnails en netflix](https://www.instagram.com/p/COd-ezPHsmA/) es posible hacer sentir a los usuarios a querer ver series que no verian por que no sienten que son para ellos y de esta forma encontrar nuevas series con las cual entretenerse.
+    Hemos detectado que aunque Crunchyroll es muy de nicho lamentablemente no cuenta con una experiencia que nos atraiga seguir consumiendo contenido constantemente e incluso encontrar nuevas series. Por ejemplo en el caso de los [thumbnails en netflix](https://www.instagram.com/p/COd-ezPHsmA/) es posible hacer sentir a los usuarios a querer ver series que no verian debido a que no se sienten atraidos ellas y de esta forma encontrar nuevas series con las cuáles entretenerse.
 
 
 2. Tropicalizacion y alianzas con youtubers/influencers

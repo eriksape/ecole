@@ -28,6 +28,13 @@ Nosotros creemos que si se combaten estos 2 puntos (apoyarse de la piratería y 
 
 ### Estrategia
 
+1. Mejorar la experiencia del uso de la plataforma
+
+    Hemos detectado que aunque Crunchyroll es muy de nicho lamentablemente no cuenta con una experiencia que nos atraiga seguir consumiendo contenido constantemente e incluso encontrar nuevas series. Por ejemplo en el caso de los [thumbnails en netflix](https://www.instagram.com/p/COd-ezPHsmA/) es posible hacer sentir a los usuarios a series que no verian por que no sienten que son para ellos y de esta forma encontrar nuevas series con las cual entretenerse.
+
+
+2. Tropicalizacion y alianzas con youtubers/influencers
+
 ### Temas desarrollados
 
 - [Commitment and consistency](./project-1/commitment-and-consistency.md)
@@ -37,4 +44,4 @@ Nosotros creemos que si se combaten estos 2 puntos (apoyarse de la piratería y 
 ### Referencias
 - https://uxdesign.cc/applying-airbnbs-11-star-framework-to-the-candidate-experience-3f0b9c4e68a3
 - Robert B Cialdini PhD. (2021). Influence: The Psychology of Persuasion, New and Expanded. New York City: HarperCollins.
-
+- https://www.instagram.com/p/COd-ezPHsmA/

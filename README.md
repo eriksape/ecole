@@ -1,23 +1,22 @@
-# ecole
-Estamos analizando la plataforma de crunchyroll
+# Miembros del equipo
 
 - Erik Sánchez @eriksape
 - Jonattan Infante @jinfante
 - David Behar @behahoras
 - Xavier @XaviGrowth
 
-## Proyecto 1
+# Proyecto 1
 
 - commitment and consistency.md [commitment-and-consistency.md](./project-1/commitment-and-consistency.md)
 - 11 stars framwork [11-stars-framwork](./project-1/11-stars-framework.md)
 - social proof.md [social-proof](./project-1/social-proof.md)
 
 
-### Producto seleccionado.
+## Producto seleccionado.
 
 [Crunchyroll](https://www.crunchyroll.com/es)
 
-#### Preguntas
+### Preguntas
 
 ¿En qué consiste y qué servicio ofrece? ¿Qué hace? ¿Cómo funciona actualmente?
 
@@ -32,4 +31,5 @@ Además, la experiencia de usuario de la plataforma no ayuda a la visualización
 Nosotros creemos que si se combaten estos 2 puntos (apoyarse de la piratería y mejorar su ux) se podría mejorar la adquisición y retención de usuarios.
 
 
-Enlistar las propuestas de la estrategia y por cada una explicar el motivo por el cual sería efectiva.
+### Estrategia
+

@@ -7,11 +7,6 @@
 
 # Proyecto 1
 
-- commitment and consistency.md [commitment-and-consistency.md](./project-1/commitment-and-consistency.md)
-- 11 stars framwork [11-stars-framwork](./project-1/11-stars-framework.md)
-- social proof.md [social-proof](./project-1/social-proof.md)
-
-
 ## Producto seleccionado.
 
 [Crunchyroll](https://www.crunchyroll.com/es)
@@ -32,4 +27,10 @@ Nosotros creemos que si se combaten estos 2 puntos (apoyarse de la piratería y 
 
 
 ### Estrategia
+
+### Temas desarrollados
+
+- [Commitment and consistency](./project-1/commitment-and-consistency.md)
+- [11 stars framwork](./project-1/11-stars-framework.md)
+- [Social proof.md](./project-1/social-proof.md)
 

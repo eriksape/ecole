@@ -1,5 +1,7 @@
 # Proyecto 1
 
+<img src="https://images.sftcdn.net/images/t_optimized,f_auto/p/01ec0b18-9a67-11e6-8b57-00163ed833e7/1170860512/crunchyroll-logo.png" width="175" height="175">
+
 ## Producto seleccionado.
 
 [Crunchyroll](https://www.crunchyroll.com/es)

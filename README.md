@@ -64,7 +64,7 @@ Para poder generar urgencia y tropicalizar la experiencia de consumir contenido 
 ### Temas desarrollados
 
 - [Commitment and consistency](./project-1/commitment-and-consistency.md)
-- [11 stars framwork](./project-1/11-stars-framework.md)
+- [11 stars framework](./project-1/11-stars-framework.md)
 - [Social proof](./project-1/social-proof.md)
 
 ### Referencias

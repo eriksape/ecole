@@ -33,7 +33,20 @@ Nosotros creemos que si se combaten estos 2 puntos (apoyarse de la piratería y 
     Hemos detectado que aunque Crunchyroll es muy de nicho lamentablemente no cuenta con una experiencia que nos atraiga seguir consumiendo contenido constantemente e incluso encontrar nuevas series. Por ejemplo en el caso de los [thumbnails en netflix](https://www.instagram.com/p/COd-ezPHsmA/) es posible hacer sentir a los usuarios a querer ver series que no verian debido a que no se sienten atraidos ellas y de esta forma encontrar nuevas series con las cuáles entretenerse.
 
 
-2. Tropicalizacion y alianzas con youtubers/influencers
+2. Comunidad
+
+    Hemos percibido que el generar comunidad ayuda a tener mejor retención y esta es una oportunidad para generar interés sobre los contenidos que estan por salir en la plataforma y generando conversacion entre los usuarios activos. 
+    
+3. Alianzas con youtubers/influencers
+
+    Alianzas con los influencers puede ayudar a generar nuevos usuarios a traves de referrals. Algunos youtubers hacen video-reacciones de anime y se puede proponer 
+que vean los videos a traves de la plataforma de crunchyroll y que aparezca en sus vídeos.
+
+
+4. Alianzas con otras paginas
+
+    En el tema con las paginas ilegales se puede generar una estrategia donde se les ofrece los enlaces de videos embebidos para que sus usuarios puedan ver determinados contenidos de forma legal y tener un call-to-action para atraer esos usuarios a crunchyroll y ofrecerles membresias de prueba, esto impacta en nuevos usuarios y en vez de darle caza a las paginas que hacen esto de forma ilegal volverlos aliados de la plataforma de Crunchyroll.
+
 
 ### Temas desarrollados
 

@@ -37,8 +37,12 @@ Las mejoras de la plataforma las dividiríamos en 3:
 
 2. Pantalla dividida (Landing): Para ver la descripción de una serie debemos entrar a la misma, proponemos dividir la pantalla en 2, en una se verá contenido de la serie seleccionada y la otra mitad donde puedas seleccionar un contenido (el slider de siempre)
        <img src="https://raw.githubusercontent.com/eriksape/ecole/main/project-1/cr-movil1.PNG" width="207" height="448"><img src="https://raw.githubusercontent.com/eriksape/ecole/main/project-1/cr-movil2.PNG" width="207" height="448">
-        En esta situacion otras plataformas tienen una mejor distribucion en sus landing
-        <img src="https://raw.githubusercontent.com/eriksape/ecole/main/project-1/n-movil1.PNG" width="207" height="448"><img src="https://raw.githubusercontent.com/eriksape/ecole/main/project-1/n-movil2.PNG" width="207" height="448">
+
+
+      En esta situacion otras plataformas tienen una mejor distribucion en sus landing
+
+
+      <img src="https://raw.githubusercontent.com/eriksape/ecole/main/project-1/n-movil1.PNG" width="207" height="448"><img src="https://raw.githubusercontent.com/eriksape/ecole/main/project-1/n-movil2.PNG" width="207" height="448">
 
 3. Trailers personalizados: Muchos contenidos generan diversos trailers (por temporada), intuimos que se podrán utilizar de manera más inteligente esos trailers, y mostrarlos para ayudar a la decisión de consumo (similar a lo que hace netflix)
 

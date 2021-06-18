@@ -60,3 +60,24 @@ que vean los videos a traves de la plataforma de crunchyroll y que aparezca en s
 - https://uxdesign.cc/applying-airbnbs-11-star-framework-to-the-candidate-experience-3f0b9c4e68a3
 - Robert B Cialdini PhD. (2021). Influence: The Psychology of Persuasion, New and Expanded. New York City: HarperCollins.
 - https://www.instagram.com/p/COd-ezPHsmA/
+
+
+
+## Mejorar la experiencia del uso de la plataforma
+Hemos detectado que aunque Crunchyroll es muy de nicho lamentablemente no cuenta con una experiencia que atraiga a seguir consumiendo contenido constantemente e incluso encontrar nuevas series (Aún para ese nicho). 
+Las mejoras de la plataforma las dividiríamos en 3:
+1. Thumbnails personalizados: Se deberán generar diversos thumbnails para cada serie, un algoritmo deberá de seleccionar el thumbnail que estadísticamente pueda atraer más al usuario (por una red neuronal), ésto para generar un primer interés. Un ejemplo de esto es como lo utiliza [netflix](https://www.instagram.com/p/COd-ezPHsmA/) y con los datos de los usuarios se puede realizar una estrategia que ayude a visualizar mas series.
+2. Pantalla dividida (smart-tv): Para ver la descripción de una serie debemos entrar a la misma, proponemos dividir la pantalla en 2, en una se verá contenido de la serie seleccionada y la otra mitad donde puedas seleccionar un contenido (el slider de siempre)
+3. Trailers personalizados: Muchos contenidos generan diversos trailers (por temporada), intuimos que se podrán utilizar de manera más inteligente esos trailers, y mostrarlos para ayudar a la decisión de consumo (similar a lo que hace netflix)
+## Comunidad
+Hemos percibido que el generar comunidad ayuda a tener mejor retención y esta es una oportunidad para generar interés sobre los contenidos que están por salir en la plataforma y generando conversación entre los usuarios activos.
+Por lo tanto proponemos alianzas con páginas e influencers
+### Alianzas
+- Youtubers/Influencers:
+    Alianzas con los influencers puede ayudar a generar interés, además de nuevos usuarios (referrals). Algunos youtubers hacen video-reacciones de anime y se puede proponer que vean los videos a través  de la plataforma de crunchyroll y que aparezca en sus vídeos.
+Alianzas con otras paginas
+- Otras paginas:
+    En el tema con las paginas ilegales se puede generar una estrategia donde se les ofrece los enlaces de videos embebidos para que sus usuarios puedan ver determinados contenidos de forma legal y tener un call-to-action para atraer esos usuarios a crunchyroll y ofrecerles membresias de prueba, esto impacta en nuevos usuarios y en vez de darle caza a las paginas que hacen esto de forma ilegal volverlos aliados de la plataforma de Crunchyroll.
+## Eventos
+Para poder generar urgencia y tropicalizar la experiencia de consumir contenido japonés en latinoamerica (en EU ya tienen otros esfuerzos), proponemos hacer un evento de lanzamiento de selectos contenidos, donde se inviten a influencers que hablen del tema para platicar de un contenido antes de su lanzamiento (nuevas temporadas y nuevos animes) sin spoilers.
+Ésto va a mantener a los usuarios en la plataforma en lo que se lanza el contenido, lo que va a generar mayor interés y mejorar la experiencia de consumo, al saber cuál es la mejor manera de manejar las expectativas.

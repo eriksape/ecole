@@ -66,7 +66,7 @@ Para poder generar urgencia y tropicalizar la experiencia de consumir contenido 
 
 - [Commitment and consistency](./project-1/commitment-and-consistency.md)
 - [11 stars framwork](./project-1/11-stars-framework.md)
-- [Social proof.md](./project-1/social-proof.md)
+- [Social proof](./project-1/social-proof.md)
 
 ### Referencias
 - https://uxdesign.cc/applying-airbnbs-11-star-framework-to-the-candidate-experience-3f0b9c4e68a3

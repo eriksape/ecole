@@ -1,10 +1,3 @@
-# Miembros del equipo
-
-- Erik Sánchez @eriksape
-- Jonattan Infante @jinfante
-- David Behar @behahoras
-- Xavier @XaviGrowth
-
 # Proyecto 1
 
 ## Producto seleccionado.
@@ -77,3 +70,11 @@ Para poder generar urgencia y tropicalizar la experiencia de consumir contenido 
 - https://uxdesign.cc/applying-airbnbs-11-star-framework-to-the-candidate-experience-3f0b9c4e68a3
 - Robert B Cialdini PhD. (2021). Influence: The Psychology of Persuasion, New and Expanded. New York City: HarperCollins.
 - https://www.instagram.com/p/COd-ezPHsmA/
+
+
+## Miembros del equipo
+
+- Erik Sánchez @eriksape
+- Jonattan Infante @jinfante
+- David Behar @behahoras
+- Xavier @XaviGrowth

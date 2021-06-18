@@ -28,6 +28,8 @@ Nosotros creemos que si se combaten estos 2 puntos (apoyarse de la piratería y 
 
 ### Estrategia
 
+Decidimos plantear 4 estrategias para mejorar la retencion y generar flujo para atraer nuevos usuarios a la plataforma de Crunchyroll, que se listan a continuación:
+
 1. Mejorar la experiencia del uso de la plataforma
 
     Hemos detectado que aunque Crunchyroll es muy de nicho lamentablemente no cuenta con una experiencia que nos atraiga seguir consumiendo contenido constantemente e incluso encontrar nuevas series. Por ejemplo en el caso de los [thumbnails en netflix](https://www.instagram.com/p/COd-ezPHsmA/) es posible hacer sentir a los usuarios a querer ver series que no verian debido a que no se sienten atraidos ellas y de esta forma encontrar nuevas series con las cuáles entretenerse.

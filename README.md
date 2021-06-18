@@ -68,6 +68,7 @@ Hemos detectado que aunque Crunchyroll es muy de nicho lamentablemente no cuenta
 Las mejoras de la plataforma las dividiríamos en 3:
 1. Thumbnails personalizados: Se deberán generar diversos thumbnails para cada serie, un algoritmo deberá de seleccionar el thumbnail que estadísticamente pueda atraer más al usuario (por una red neuronal), ésto para generar un primer interés. Un ejemplo de esto es como lo utiliza [netflix](https://www.instagram.com/p/COd-ezPHsmA/) y con los datos de los usuarios se puede realizar una estrategia que ayude a visualizar mas series.
 2. Pantalla dividida (smart-tv): Para ver la descripción de una serie debemos entrar a la misma, proponemos dividir la pantalla en 2, en una se verá contenido de la serie seleccionada y la otra mitad donde puedas seleccionar un contenido (el slider de siempre)
+       <img src="https://raw.githubusercontent.com/eriksape/ecole/main/project-1/cr-movil1.PNG" width="207" height="448"><img src="https://raw.githubusercontent.com/eriksape/ecole/main/project-1/cr-movil2.PNG" width="207" height="448">
 3. Trailers personalizados: Muchos contenidos generan diversos trailers (por temporada), intuimos que se podrán utilizar de manera más inteligente esos trailers, y mostrarlos para ayudar a la decisión de consumo (similar a lo que hace netflix)
 ## Comunidad
 Hemos percibido que el generar comunidad ayuda a tener mejor retención y esta es una oportunidad para generar interés sobre los contenidos que están por salir en la plataforma y generando conversación entre los usuarios activos.

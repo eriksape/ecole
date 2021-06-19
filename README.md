@@ -79,5 +79,5 @@ Para poder generar urgencia y tropicalizar la experiencia de consumir contenido 
 
 - Erik Sánchez @eriksape
 - Jonattan Infante @jinfante
-- David Behar @behahoras
+- David Behar @behagoras
 - Xavier @XaviGrowth
